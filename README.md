@@ -1,16 +1,12 @@
-# todo_application_full
+# To-Do Flutter App
 
-A new Flutter project.
+A simple and intuitive To-Do list application built using Flutter. This app provides a clean user interface to manage tasks, mark them as complete, and delete them using a swipe gesture.
 
-## Getting Started
+#### Features
+  - Add new tasks with a user-friendly dialog.
+  - Mark tasks as complete by checking the checkbox.
+  - Delete tasks using a slidable action with a garbage icon.
 
-This project is a starting point for a Flutter application.
+Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/61d74e35-a697-485a-9845-ad0c64b675ae)
